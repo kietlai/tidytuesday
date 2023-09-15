@@ -23,9 +23,11 @@ Churchill Management is an entry for the **FBLA Competition**. This Project will
      - Schedule meetings
 4. :heavy_exclamation_mark: Others coming soon!
 > :mega: There will be more additions as customers and as we come up with more. 
+---
 ### Todo
 > :mega: Will be put inside of the notion to be checked.
 Later features will be put down here based on there completion.
+---
 ### Technology Used
 - Next.js
 - Firebase or Supabase or postrgre idk ill figure it out
